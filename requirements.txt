@@ -1,4 +1,4 @@
-Django==1.5.1
+Django==1.11.28
 MySQL-python==1.2.4
 simplejson==3.3.0
 urllib3==1.6
