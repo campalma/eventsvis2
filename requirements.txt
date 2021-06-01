@@ -1,5 +1,5 @@
 Django==1.5.1
 MySQL-python==1.2.4
 simplejson==3.3.0
-urllib3==1.6
+urllib3==1.26.5
 wsgiref==0.1.2
